@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573147616444', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['5492266466080'], ['50492280729'], ['5492266613038'], ['5491155983299'], ['595986172767'], ['5492964650915'], ['51948705559']]
+global.owner = [['5212441357601', 'ＰＲＯＰＩＥＴＡＲＩＯ', true]]
 global.mods = []
 global.prems = []
 
@@ -69,35 +69,35 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = 'LoliBot'
-global.author = 'elrebelde21'
+global.packname = '╭ 𝕽𝖆𝖕𝖍𝖙𝖆𝖑𝖎𝖆 \n┃\n┃=> ꜱᴏʟᴏ ꜱɪʀᴠᴏ ᴀ ᴍɪ ᴀᴍᴏ ɴᴀʜᴏꜰᴜᴍɪ\n╰━━━━━━━━•'
+global.author = ' ╭ 𝑯𝒆𝒄𝒉𝒐 𝒄𝒐𝒏 𝒂𝒎𝒐𝒓 𝒑𝒐𝒓:\n ┃\n ┃ » 𝙀𝙢𝙢𝙖 (𝙑𝙞𝙤𝙡𝙚𝙩𝙨 𝙑𝙚𝙧𝙨𝙞𝙤𝙣)\n ╰━━━━━━━━•'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
-global.wm = '𝐋𝐨𝐥𝐢𝐁𝐨𝐭-𝐌𝐃' 
-global.botname = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
-global.vs = '1.9.5'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'tiktok.com/@elrebelde21'
-global.md = 'https://github.com/elrebelde21/LoliBot-MD'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.face = 'https://www.facebook.com/groups/872989990425789/'
+global.wm = 'ℝ𝕒𝕡𝕙𝕥𝕒𝕝𝕚𝕒' 
+global.botname = 'ℝ𝕒𝕡𝕙𝕥𝕒𝕝𝕚𝕒'
+global.vs = '1.0.1'
+global.yt = 'https://www.youtube.com/'
+global.tiktok = 'tiktok.com/'
+global.md = 'https://github.com/'
+global.fb = 'https://www.facebook.com/'
+global.face = 'https://www.facebook.com/'
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update
-global.nn = 'https://chat.whatsapp.com/HNDVUxHphPzG3cJHIwCaX5' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/IstOAq2RnBx687WhQpOYK8' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.bot = 'Wa.me/573147616444'
+global.nna = 'https://whatsapp.com/' //Update
+global.nn = 'https://chat.whatsapp.com/' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsapp.com/' //enlace lolibot
+global.nnntttt = 'https://chat.whatsapp.com/' //Grupo ayuda sobre el bot
+global.bot = 'Wa.me/'
 global.asistencia = `${fb}`
 global.redes = [nna, yt, nn, md, tiktok, fb, nnn, face]
 
 //------------------------[ Info | Datos ]---------------------------
 
-global.wait = 'Calmao pa estoy procesando😎\n\n> *❗Por favor no hacer spam👏❗*'
+global.wait = 'Calmao Nahofumi no me trata asi \n\n> *❗Puto si te vas a la iglesia de los 3 Heroes❗*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'

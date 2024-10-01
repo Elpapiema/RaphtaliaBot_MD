@@ -121,7 +121,7 @@ logger: pino({ level: 'silent' }),
 printQRInTerminal: opcion == '1' ? true : false,
 mobile: MethodMobile, 
 //browser: ['Chrome (Linux)', '', ''],
-browser: opcion == '1' ? ['LoliBot-MD', 'Edge', '1.0.0'] : methodCodeQR ? ['LoliBot-MD', 'Edge', '1.0.0'] : ["Ubuntu", "Chrome", "20.0.04"],
+browser: opcion == '1' ? ['RaphtaliaBot-MD', 'Edge', '1.0.0'] : methodCodeQR ? ['RaphtaliaBot-MD', 'Edge', '1.0.0'] : ["Ubuntu", "Chrome", "20.0.04"],
 auth: { creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, pino({ level: "fatal" }).child({ level: "fatal" })),
 },
@@ -331,8 +331,8 @@ conn.ev.off('creds.update', conn.credsUpdate)
 
 conn.welcome = 'HOLAA!! @user ¿COMO ESTAS?😃\n\n『Bienvenido A *@subject*』\n\nUn gusto conocerte amig@ 🤗\n\n_Recuerda leer las reglas del grupo para no tener ningun problema 🧐_\n\n*Solo disfrutar de este grupo y divertite 🥳*`'
 conn.bye = 'Bueno, se fue @user 👋\n\nQue dios lo bendiga 😎`'
-conn.spromote = 'Hey @user ya forma parte de staff 👑'
-conn.sdemote = 'jajaja @user ya no eres admins'
+conn.spromote = 'Hey @user ya forma parte de los Heroes 👑'
+conn.sdemote = 'jajaja @user ya no eres un Heroe'
 conn.sDesc = 'La descripción ha sido cambiada a \n@desc'
 conn.sSubject = 'El nombre del grupo ha sido cambiado a \n@group'
 conn.sIcon = 'El icono del grupo ha sido cambiado'
