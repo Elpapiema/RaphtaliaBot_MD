@@ -118,25 +118,25 @@ global.eg = '『💚 𝙀𝙓𝙄𝙏𝙊𝙎 💚』\n\n'
 global.exito = eg
 
 //-------------------------[ IMAGEN ]------------------------------
-global.img = "https://qu.ax/Zgqq.jpg"
-global.img1 = 'https://qu.ax/hNJk.jpg'
-global.img2 = 'https://qu.ax/jzhN.jpg'
+global.img = "https://qu.ax/RfLs.jpg"
+global.img1 = 'https://qu.ax/PUOA.jpg'
+global.img2 = 'https://qu.ax/NRLn.jpg'
 
 global.imagen = fs.readFileSync('./Menu2.jpg')
 global.imagen1 = fs.readFileSync('./media/Menu1.jpg')
 global.imagen2 = fs.readFileSync('./media/Menu2.jpg')
 global.imagen3 = fs.readFileSync('./media/Menu3.jpg')
 global.imagen4 = fs.readFileSync('./media/Menu4.jpg')
-global.imagen5 = 'https://qu.ax/rULv.jpg'
-global.imagen6 = 'https://qu.ax/CySs.jpg'
-global.menu18 = 'https://qu.ax/MOgO.jpg'
+global.imagen5 = 'https://qu.ax/MyLz.jpg'
+global.imagen6 = 'https://qu.ax/gdCu.webp'
+global.menu18 = 'https://qu.ax/QlTi.webp'
 global.vid1 = 'https://qu.ax/dcAc.mp4'
 global.img = [imagen, imagen1, imagen2, imagen3, imagen4]
 
 //----------------------------[ NIVELES | RPG ]---------------------------------
 
 global.multiplier = 850 // Cuanto más alto, más difícil subir de nivel
-global.maxwarn = '4' // máxima advertencias
+global.maxwarn = '3' // máxima advertencias
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 

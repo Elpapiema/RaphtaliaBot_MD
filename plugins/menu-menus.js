@@ -47,7 +47,7 @@ ${(conn.user.jid == global.conn.user.jid ? `*• Bot Ofc:* wa.me/${global.conn.u
 *• Usuario registrados:* %rtotalreg de %totalreg
 
 *\`✅ Activar tu bot 24/7 activo en CorinPlus\`*
-https://youtube.com/shorts/9KxvFilxwP8?si=zEpmKMDpniHCB83R
+https://youtube.com/
 `.trimStart(),
   header: '◉ %category  ',
   body: ' ║\n╠ ○%cmd %islimit %isPremium',
